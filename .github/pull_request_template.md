@@ -1,12 +1,13 @@
 # Pull Request Template
 
 ## Select PR Type
+<!-- Change the `open` attribute below to match your PR type -->
 <!-- Pick one: feature / bugfix / chore -->
 **Type:** feature | bugfix | chore
 
 ---
 
-<details>
+<details open>
 <summary>🧠 Feature Template</summary>
 
 ### Summary
